@@ -13,8 +13,11 @@ This project is a simple, yet powerful, calculator implemented in Python. It sup
 
 ### Project Structure
 
-- **`README.md`**: This file, providing an overview of the project and instructions on how to use it.
 - **`.gitignore`**: List of files or folders not necessary for git tracking.
+- **`README.md`**: This file, providing an overview of the project and instructions on how to use it.
+- **`calculator.py`**: Class definition file for the calculator class.
+- **`main.py`**: Main program, executes the main loop.
+
 
 ### How to Use
 
