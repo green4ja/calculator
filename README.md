@@ -20,7 +20,7 @@ This project is a simple, yet powerful, calculator implemented in Python. It sup
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/calculator-project.git
+   git clone https://github.com/green4ja/calculator-project.git
 
 2. Navigate into the project directory:
     ```bash
